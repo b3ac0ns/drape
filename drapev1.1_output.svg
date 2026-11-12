@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+<rect width="100%" height="100%" rx="8" fill="#1e1e1e"/>
+<text x="20" y="34" fill="#9cdcfe" font-family="Menlo, Consolas, monospace" font-size="14">DRAPE Index v1.1 (k=0.20, w=0.38, a=0.5)</text>
+<text x="60" y="78" fill="#808080" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">TP</text>
+<text x="140" y="78" fill="#808080" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">FP</text>
+<text x="220" y="78" fill="#808080" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">IC</text>
+<text x="330" y="78" fill="#808080" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">DRAPE</text>
+<text x="360" y="78" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="100" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="140" y="100" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">10</text>
+<text x="220" y="100" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="100" fill="#f48771" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">-2.08</text>
+<text x="360" y="100" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="122" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">1</text>
+<text x="140" y="122" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">10</text>
+<text x="220" y="122" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="122" fill="#4ec9b0" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">1.51</text>
+<text x="360" y="122" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="144" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">5</text>
+<text x="140" y="144" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">10</text>
+<text x="220" y="144" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="144" fill="#4ec9b0" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">7.6</text>
+<text x="360" y="144" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="166" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">10</text>
+<text x="140" y="166" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">1</text>
+<text x="220" y="166" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="166" fill="#4ec9b0" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">13.72</text>
+<text x="360" y="166" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="188" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">50</text>
+<text x="140" y="188" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">10</text>
+<text x="220" y="188" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="188" fill="#4ec9b0" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">21.71</text>
+<text x="360" y="188" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="210" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">100</text>
+<text x="140" y="210" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">100</text>
+<text x="220" y="210" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="210" fill="#4ec9b0" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">22.52</text>
+<text x="360" y="210" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="232" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">1000</text>
+<text x="140" y="232" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">100</text>
+<text x="220" y="232" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="232" fill="#4ec9b0" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">39.37</text>
+<text x="360" y="232" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="254" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="140" y="254" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">150</text>
+<text x="220" y="254" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="254" fill="#f48771" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">-4.36</text>
+<text x="360" y="254" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="276" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">100</text>
+<text x="140" y="276" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="220" y="276" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="276" fill="#4ec9b0" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">27.66</text>
+<text x="360" y="276" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14"></text>
+<text x="60" y="298" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">1</text>
+<text x="140" y="298" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">90</text>
+<text x="220" y="298" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="298" fill="#4ec9b0" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0.01</text>
+<text x="360" y="298" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14">zero line</text>
+<text x="60" y="320" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">1</text>
+<text x="140" y="320" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">100</text>
+<text x="220" y="320" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="320" fill="#f48771" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">-0.06</text>
+<text x="360" y="320" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14">zero line</text>
+<text x="60" y="342" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">1</text>
+<text x="140" y="342" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">105</text>
+<text x="220" y="342" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="342" fill="#f48771" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">-0.09</text>
+<text x="360" y="342" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14">zero line</text>
+<text x="60" y="364" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="140" y="364" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="220" y="364" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="330" y="364" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">-</text>
+<text x="360" y="364" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14">nothing to score</text>
+<text x="60" y="386" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="140" y="386" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="220" y="386" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">10</text>
+<text x="330" y="386" fill="#f48771" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">-1.56</text>
+<text x="360" y="386" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14">new: only inconclusive</text>
+<text x="60" y="408" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="140" y="408" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="220" y="408" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">100</text>
+<text x="330" y="408" fill="#f48771" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">-3.42</text>
+<text x="360" y="408" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14">new: only inconclusive</text>
+<text x="60" y="430" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="140" y="430" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">0</text>
+<text x="220" y="430" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">1000</text>
+<text x="330" y="430" fill="#f48771" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">-5.4</text>
+<text x="360" y="430" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14">new: only inconclusive</text>
+<text x="60" y="452" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">60</text>
+<text x="140" y="452" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">30</text>
+<text x="220" y="452" fill="#d4d4d4" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">10</text>
+<text x="330" y="452" fill="#4ec9b0" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="14">21.02</text>
+<text x="360" y="452" fill="#808080" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="14">new: mixed rule</text>
+</svg>

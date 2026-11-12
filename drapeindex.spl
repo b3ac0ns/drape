@@ -1,12 +1,13 @@
 | makeresults
-``` Use this code in a macro or simple call it inline inside a search query or dashboard ```
+``` DRAPE Index v1.1. Use this code in a macro or simply call it inline inside a search query or dashboard ```
 
-| eval TP=1, FP=1  ``` input example ```
+| eval TP=60, FP=30, IC=10  ``` input example. IC (inconclusive alerts) is optional: use 0 for the v1.0 score ```
 
-``` Define the weights (FP penalty and TP reward) ```
-| eval k=printf("%.2F", 0.18)
-| eval w=printf("%.2F", 0.22)
+``` Define the weights (FP penalty, TP precision reward, inconclusive alert cost as a share of one FP) ```
+| eval k=0.20, w=0.38, a=0.5
 
-| eval indexscore=((log(TP+1)*(1+(w*(TP/(TP+FP)))))-((k*log(FP+1))/(log(TP+1)+1)))
-| eval indexscore=if(TP+FP>0, indexscore, "-")
-| eval indexscore=round(indexscore*10,2)
+``` Inconclusive alerts count as a fraction of a false positive ```
+| eval EFP=FP+(a*coalesce(IC, 0))
+
+| eval indexscore=if(TP+EFP>0, round(((log(TP+1)*(1+(w*(TP/(TP+EFP)))))-((k*log(EFP+1))/(log(TP+1)+1)))*10, 2), "-")
+| fields - EFP
